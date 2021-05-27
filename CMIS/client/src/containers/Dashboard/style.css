@@ -1,0 +1,100 @@
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 100%;
+    display: block;
+    padding: 2px .5px;
+}
+.dashcontainer{
+    width: 100%;
+    display: flex;
+}
+ .defcontents{
+    width: 75%;
+    display: block;
+    background-color: #092c74;
+    color: #fff;
+    padding: 5px 15px ;
+    margin: 0px 0px 7px;
+}
+
+.defcard{
+    width: auto;
+    display: flex;
+    padding: 7px;
+}
+.defcard span:first-child{
+    padding-right: 14px;
+    border-right: 1px solid dodgerblue;
+    border-width: 1.5px;
+    border-radius: 15px;
+}
+
+.defcard .defcardcontent p{
+    font-size: 15px;
+    text-align: left;
+}
+
+.defcard .defcardcontent p::first-letter {
+    font-weight: unset;
+    color: white;
+    font-size: xx-large;
+  }
+.imgcontent h2{
+    margin: unset;
+    width: min-content;
+    text-align: end;
+    color: white;
+}
+.imgcontent img{
+    padding: 10px;
+    border-top: .5px solid white;
+}
+.sidebar{
+    width: 28%;
+}
+
+.cardcountrydata{
+    height: auto;
+    width: 100%;
+    display:flex;
+}
+
+.cardcountry{
+    width: 70%;
+    height: max-content;
+    /* border: 1px solid black; */
+    float: left;
+    margin: 3px;
+    padding: 15px 5px;
+    border-bottom: 1px solid #011E5D;
+    transform: scale(.7) ;
+    transition: 1s;
+    box-shadow: 5px 5px 10px #011E5D;
+    border-radius: 15px;
+}
+.cardcountry:hover{
+    background-color: #011E5D;
+    color: white;
+    transform: scale(1.5) ;
+    transform: translateX(40px);
+    box-shadow: unset;
+    border-bottom: .7px solid dodgerblue;
+    border-right: .7px solid dodgerblue;
+}
+.cardcountry .blkname{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: 70px; */
+    line-height: 1em;
+    margin-top: auto;
+    font-weight: 300;
+    /* border-bottom: 1px solid dodgerblue; */
+}
+.countrybar{
+    margin: 3px;
+    height: 25rem;
+    /* max-height:unset; */
+}

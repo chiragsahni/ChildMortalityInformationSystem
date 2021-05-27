@@ -1,0 +1,49 @@
+
+.intro-card{
+    height: fit-content;
+    width: 90%;
+    display: inline-block;
+    margin-right: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding: 0px 15px;
+}
+.intro-card .card-head{
+    padding: 20px;
+    /* margin: 45px; */
+    border-bottom: .5px solid gray;
+    background-color: darkblue;
+    }
+
+.card-head .ind-head{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 1.5px solid dodgerblue;
+    margin-top: 10px;
+    font-size: 20px;
+    opacity: 1;
+    color: white;
+    cursor: pointer;
+    transition: border-bottom .3s ease-out, color 1s linear;
+}
+.card-head .ind-head:hover{
+    opacity: 1;
+    color: rgb(140, 196, 252);
+    border-bottom: 4.5px solid dodgerblue;
+    
+}
+
+.card-body{
+    border: .7px solid black;
+    height: fit-content;
+    padding: 15px;
+    font-size: 20px;
+    word-spacing: 3px;
+    line-height: 1.5;
+
+}
+/* #idintro{
+    opacity: .5;
+    color: black;
+    background: white;
+} */

@@ -1,0 +1,46 @@
+.container-head{
+    display: flex;
+    background-color: black;
+    margin: 0px;
+    width: 100%;
+    min-height: 120px;
+    color:white;
+    font-size: x-large;
+    word-spacing: 15px;
+    text-align: center;
+    font-family: Heiti SC;
+}
+
+.container-head h1{
+    position: relative;
+    left:500px;
+    text-align: center;
+    word-spacing: 5px;
+    transition: word-spacing 1s;
+}
+
+.container-head h1:hover{
+    word-spacing: 15px;
+    color: lightseagreen;
+}
+
+.container-head ul li{
+    display: inline-block;
+    padding: 5px;
+    position: relative;
+    /* left: -450px; */
+    /* top:-15px; */
+    font-size: 15px;
+    transition: font-size 1s;
+    color: lightskyblue;
+    list-style-type: none;
+}
+
+.container-head ul li:hover{
+    font-size: 25px;
+    color: lightpink;
+}
+
+.green{
+    padding-right: 1rem;
+}

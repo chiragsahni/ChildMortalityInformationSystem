@@ -1,0 +1,99 @@
+p{
+    text-align: justify;
+    font-family: AppleMyungjo;
+    /* word-spacing: 8px; */
+    padding: 15px;
+    /* font-size: 20px; */
+    word-spacing: 3px;
+    line-height: 1.5;
+}
+img{
+    width: 100%;
+    height: initial;
+    overflow: auto;
+}
+
+.image-container{
+    height: 70vh;
+    width: 95%;
+    overflow: auto;
+    margin-right: none;
+    margin-left: auto;
+}
+.intro-container{
+    padding: 7px 3px;
+    width: 90%;
+    height: 80vh;
+    border: .5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    /* float:left; */
+}
+.clcontainer{
+    width: 50%;
+    /* height: 30vh; */
+    padding: 10px;
+    float:left;
+    /* border: 1px solid black; */
+}
+.clcontainer .abs-cont{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    /* float:left; */
+    width: 100%;
+}
+
+.clcontainer .int-cont{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    /* float:right; */
+    width: 100%;
+
+}
+
+
+.custom .p-scrollpanel-wrapper {
+    border-right: 12px solid #f4f4f4;
+    
+}
+
+.custom .p-scrollpanel-bar {
+    background-color: #1976d2;
+    opacity: 1;
+    transition: background-color .3s;
+}
+
+.custom .p-scrollpanel-bar:hover {
+    background-color: #135ba1;
+}
+
+
+.card-containers{
+    display: inline-flex;
+    padding-top: 10px;
+    font-family: SignPainter;
+}
+
+.tog-button{
+    display: flex;
+    width: 360px;
+    margin: 15px;
+    border: .5px solid whitesmoke;
+    padding: 15px;
+    background-color: black;
+    border-radius: 25px;
+    color: aliceblue;
+    font-size: large;
+    margin-right: auto;
+    margin-left: auto;
+    cursor: pointer;
+    justify-content: center;
+    opacity: .5;
+}
+.btn1{
+    background-color: black;
+}
+.btn2{
+    background-color: black;
+}

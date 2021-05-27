@@ -1,0 +1,26 @@
+{
+    "Deaths": {
+      "('Afghanistan', 2000, 'Acute lower respiratory infections')": 0.0011784641,
+      "('Afghanistan', 2000, 'Birth asphyxia and birth trauma')": 0.0011334878,
+      "('Afghanistan', 2000, 'Congenital anomalies')": 0.0006091957,
+      "('Afghanistan', 2000, 'Diarrhoeal diseases')": 0.0013962881,
+      "('Afghanistan', 2000, 'HIV\/AIDS')": 0.0,
+      "('Afghanistan', 2000, 'Injuries')": 0.0009322109,
+      "('Afghanistan', 2000, 'Malaria')": 0.0,
+      "('Afghanistan', 2000, 'Measles')": 0.0,
+      "('Afghanistan', 2000, 'Meningitis\/encephalitis')": 0.0018667408,
+      "('Afghanistan', 2000, 'Other communicable, perinatal and nutritional conditions')": 0.0009634183
+    },
+    "DeathsPercentage": {
+      "('Afghanistan', 2000, 'Acute lower respiratory infections')": 0.1178464067,
+      "('Afghanistan', 2000, 'Birth asphyxia and birth trauma')": 0.1133487841,
+      "('Afghanistan', 2000, 'Congenital anomalies')": 0.0609195683,
+      "('Afghanistan', 2000, 'Diarrhoeal diseases')": 0.1396288054,
+      "('Afghanistan', 2000, 'HIV\/AIDS')": 0.0,
+      "('Afghanistan', 2000, 'Injuries')": 0.0932210854,
+      "('Afghanistan', 2000, 'Malaria')": 0.0,
+      "('Afghanistan', 2000, 'Measles')": 0.0,
+      "('Afghanistan', 2000, 'Meningitis\/encephalitis')": 0.1866740792,
+      "('Afghanistan', 2000, 'Other communicable, perinatal and nutritional conditions')": 0.0963418289
+    }
+  }
