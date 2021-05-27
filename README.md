@@ -1,5 +1,5 @@
-# ChildMortalityInformationSystem
-## Predicts the Trends in Global Child Mortality Rates
+# ChildMortalityInformationSystem (CMIS)
+## Predicts the trends in Global Child Mortality Rates and display on the CMIS dashboard.
 
 
 With the rise in infectious and burden diseases, child mortality has become an important factor for United Nations and healthcare bodies.
