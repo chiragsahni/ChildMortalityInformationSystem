@@ -10,7 +10,7 @@ The study summarizes trends in child mortality rates and reports on progress tow
 (SDGs) and associated targets.
 
 
-### This project focuses on the following Indexes:
+### This project focuses on the following Indexes to predict the Child Mortality Rates for different nations:
         i. Gross Domestic Product
        ii. Life Expectancy Rate
       iii. Healthcare Expenditure Index
